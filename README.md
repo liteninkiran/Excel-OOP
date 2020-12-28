@@ -9,7 +9,7 @@ Example of how to write OOP in Excel
 
 ## To add XLSX / XLSM files to version control:
   * Make a copy of the file
-  * Rename it from xxxx.xlsx or xxxx.xlsx to xxxx.zip
+  * Rename it from xxxx.xlsx or xxxx.xlsm to xxxx.zip
   * Unzip the file
   * Add to version control
 
