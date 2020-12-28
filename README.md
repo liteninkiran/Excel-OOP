@@ -3,9 +3,9 @@ Example of how to write OOP in Excel
 
 ## In order to convert this repo back into a Macro-Enabled Workbook:
   * Clone the repo or download and unzip the folder
-  * Delete this file
+  * Find and delete this file
   * At the root level (i.e. do not zip the parent folder), add all files/folders to a zip file
-  * Rename the file xxxx.zip to xxxx.xlsm
+  * Rename the file from xxxx.zip to xxxx.xlsm
 
 ## To add XLSX / XLSM files to version control:
   * Make a copy of the file
